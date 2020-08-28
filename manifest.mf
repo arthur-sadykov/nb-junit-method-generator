@@ -1,0 +1,6 @@
+Manifest-Version: 1.0
+AutoUpdate-Show-In-Client: true
+OpenIDE-Module: nb.junit.method.generator
+OpenIDE-Module-Localizing-Bundle: nb/junit/methodgenerator/Bundle.properties
+OpenIDE-Module-Specification-Version: 1.0
+
